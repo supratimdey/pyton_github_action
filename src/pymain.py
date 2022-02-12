@@ -1,2 +1,4 @@
+import os
+import sys
 
-print('Hello World')
+print(sys.version_info.major)
